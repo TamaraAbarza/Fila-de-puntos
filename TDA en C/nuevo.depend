@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1566331026 source:c:\users\usuario\desktop\nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_puntos.h"
+
+1566330801 c:\users\usuario\desktop\nuevo\fila_puntos.h
+	<stdio.h>
+	<stdlib.h>
+	"punto.h"
+
+1566322096 c:\users\usuario\desktop\nuevo\punto.h
+
